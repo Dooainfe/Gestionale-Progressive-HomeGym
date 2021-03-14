@@ -1,0 +1,11 @@
+Nome: GiannotteAntonio
+Età: 24
+Altezza: 180
+Peso attuale: 92
+Peso iniziale: 90
+Iscritto il: 23/12/2020
+Scadenza sottoscrizione: 23/02/2021
+Kg persi 3 mesi fa: 0.0
+Kg persi 2 mesi fa: 0.0
+Kg persi 1 mese fa: 0.0
+

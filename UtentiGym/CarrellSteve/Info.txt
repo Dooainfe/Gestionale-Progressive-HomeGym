@@ -1,0 +1,10 @@
+Cliente: CarrellSteve
+Eta': 22
+Altezza: 180
+Peso attuale: 84.9
+Peso iniziale: 91.0
+Iscritto il: 23/12/2020
+Scadenza sottoscrizione: 23/02/2021
+Kg persi 3 mesi fa: 0.0
+Kg persi 2 mesi fa: 0.0
+Kg persi 1 mese fa: 0.0

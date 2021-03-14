@@ -1,0 +1,28 @@
+84.9->84.9
+
+Giorno 1:
+
+Piegamenti 4x7
+Piegamenti b 4x70
+Piegamenti c 3x10 20kg
+Piegamenti d 4x11 10kg
+Piegamenti e 1x1 1kg
+Piegamenti f 1x1
+
+Giorno 2:
+
+Piegamenti g 4x7
+Piegamenti h 4x70
+Piegamenti i 3x10 20kg
+Piegamenti l 4x11 10kg
+Piegamenti m 1x1 1kg
+Piegamenti n 1x1
+
+Giorno 3:
+
+Piegamenti o 4x7
+Piegamenti p 4x70
+Piegamenti q 3x10 20kg
+Piegamenti r 4x11 10kg
+Piegamenti s 1x1 1kg
+Piegamenti t 1x1
